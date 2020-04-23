@@ -2,7 +2,3 @@ git add .
 git commit -m "Your Awesome Changes!"
 git push origin master
 
-ionic deploy add \
---app-id="056ef0e3" \
---channel-name="Master" \
---update-method="background"
