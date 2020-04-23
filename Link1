@@ -1,0 +1,4 @@
+ionic deploy add \
+--app-id="056ef0e3" \
+--channel-name="Master" \
+--update-method="background
